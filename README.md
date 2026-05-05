@@ -6,5 +6,6 @@ Q1: We would not use unit tests since the message feature needs multiple compone
 Q2: Yes, we would use a unit test for the mas message length feature since it is isolated and a unit test can handle that. 
 
 
-https://[ErickG5].github.io/Lab5_Starter/expose.html
-https://[ErickG5].github.io/Lab5_Starter/explore.html
+https://erickg5.github.io/Lab5_Starter/expose.html
+
+https://erickg5.github.io/Lab5_Starter/explore.html
