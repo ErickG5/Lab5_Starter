@@ -1,2 +1,6 @@
 # Lab 5 - Starter
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
+Erick Garcia Dealba
+
+Q1: We would not use unit tests since the message feature needs multiple components working with each other and unit tests can only test one part at a time. 
+
+Q2: Yes, we would use a unit test for the mas message length feature since it is isolated and a unit test can handle that. 
